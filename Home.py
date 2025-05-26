@@ -8,7 +8,7 @@ render_sidebar()
 st.markdown(
     """
     <div style='display: flex; flex-direction: column; align-items: center; justify-content: center;'>
-        <img src='https://raw.githubusercontent.com/nov8r/Portfolio/main/Headshot-Resized.jpg' width='200' style='border-radius: 8%; margin-bottom: 5px;'/>
+        <img src='https://raw.githubusercontent.com/nov8r/Portfolio/static/Headshot-Resized.jpg' width='200' style='border-radius: 8%; margin-bottom: 5px;'/>
     </div>
     """,
     unsafe_allow_html=True
